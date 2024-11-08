@@ -1,0 +1,103 @@
+body,
+html {
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.caixa1{
+    background-color: black;
+    border-radius: 8px;
+    padding: 10px;
+    padding-bottom: 90px;
+}
+.caixa2 { 
+    border-bottom: 1px dotted white;
+    display: flex;
+    justify-content:center ;
+    width: 300px;
+    justify-content: space-between;
+    
+}
+.caixa3 p{
+    display: flex;
+    justify-content: flex-end;
+}
+h2{
+    color: white;
+    margin: 0 auto;
+}
+.opcoes{
+    display: flex;
+    fill: white;
+    width: 5px;
+    position: relative;
+    right: 18px;
+}
+.texto1 {
+    border-radius: 5px;
+    padding: 4px 10px;
+    background-color: #3b4a54;
+    color: white;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.visto1{
+  width: 10px;
+  fill: aqua;
+  position: relative;
+  bottom: -10px;
+  right: -3px;
+}
+.texto2{
+    border-radius: 5px;
+    padding: 4px 10px;
+    background-color: #3b4a54;
+    color: white;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.visto2{
+  width: 10px;
+  fill: aqua;
+  position: relative;
+  bottom: -10px;
+  right: -3px;
+}
+.texto3 {
+    border-radius: 5px;
+    padding: 4px 10px;
+    background-color: #00a884;
+    color: white;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.offline1{
+  width: 10px;
+  fill: #B7B7B7;
+  position: relative;
+  bottom: -10px;
+  right: 3px;
+}
+.texto4{
+    border-radius: 5px;
+    padding: 4px 10px;
+    background-color: #00a884;
+    color: white;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.offline2{
+  width: 10px;
+  fill: #B7B7B7;
+  position: relative;
+  bottom: -10px;
+  right: 3px;
+}
+p{
+    margin: 0 auto;
+    margin: 2px;
+}
